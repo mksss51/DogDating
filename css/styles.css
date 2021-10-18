@@ -154,6 +154,45 @@ p
     margin:20px 10px;
 }
 
+
+//
+#pricing
+{
+    padding: 100px;
+}
+ 
+.pricing-coloumn
+{
+    padding:3% 2%;
+}
+ 
+.price-text
+{
+    font-size: 3rem;
+    line-height: 1.5;
+}
+
+
+/* Pricing Cards */
+
+#pricing
+{
+    padding: 100px;
+}
+ 
+.pricing-coloumn
+{
+    padding:3% 2%;
+}
+ 
+.price-text
+{
+    font-size: 3rem;
+    line-height: 1.5;
+}
+
+
+
 @media (max-width:1028px)
 {
     #title
